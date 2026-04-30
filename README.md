@@ -43,6 +43,17 @@ A production-ready full-stack chatbot application featuring three distinct profe
 - `/src/lib/prompts.ts`: Persona definitions and system instructions.
 - `/src/lib/utils.ts`: Styling and UI utilities.
 
+## 📸 Screenshots
+
+### Anshuman Singh - Systems Hardliner
+![Anshuman Singh UI](screenshots/anshuman.png)
+
+### Abhimanyu Saxena - Strategic Visionary
+![Abhimanyu Saxena UI](screenshots/abhimanyu.png)
+
+### Kshitij Mishra - Patient Educator
+![Kshitij Mishra UI](screenshots/kshitij.png)
+
 ## 👤 Personas
 
 - **Anshuman Singh**: The Systems Hardliner. Focuses on DSA and low-level optimization.
