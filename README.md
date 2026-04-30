@@ -46,13 +46,18 @@ A production-ready full-stack chatbot application featuring three distinct profe
 ## 📸 Screenshots
 
 ### Anshuman Singh - Systems Hardliner
-![Anshuman Singh UI](screenshots/anshuman.png)
+<img width="1880" height="897" alt="image" src="https://github.com/user-attachments/assets/c021eda8-1300-4842-9bb1-7cd202cedbbb" />
+
+
 
 ### Abhimanyu Saxena - Strategic Visionary
-![Abhimanyu Saxena UI](screenshots/abhimanyu.png)
+<img width="1883" height="916" alt="image" src="https://github.com/user-attachments/assets/bd6b42d8-d745-4956-adf0-d51f3b51ae08" />
+
+
 
 ### Kshitij Mishra - Patient Educator
-![Kshitij Mishra UI](screenshots/kshitij.png)
+<img width="1883" height="907" alt="image" src="https://github.com/user-attachments/assets/91dd722e-4b4b-4731-9430-f9a01132051b" />
+
 
 ## 👤 Personas
 
